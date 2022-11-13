@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
         setContentView(R.layout.activity_main);
 // login move
         ConstraintLayout constraintLayout = findViewById(R.id.mainLayout);
@@ -31,14 +33,13 @@ public class MainActivity extends AppCompatActivity {
         animationDrawable.start();
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
-        //setContentView(binding.getRoot());
+        setContentView(binding.getRoot());
 
         binding.bottomNavigation.setOnItemSelectedListener(item -> {
 
             switch(item.getItemId()){
                 case R.id.back:
                     replaceFragments(new BackFragment());
-
                     break;
                 case R.id.home:
                     replaceFragments(new HomeFragment());
