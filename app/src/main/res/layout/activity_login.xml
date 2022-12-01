@@ -25,7 +25,7 @@
         app:layout_constraintHorizontal_bias="0.486"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/password"
-        app:layout_constraintVertical_bias="0.22" />
+        app:layout_constraintVertical_bias="0.45" />
 
     <EditText
         android:id="@+id/username"
@@ -109,15 +109,14 @@
 
     <ImageView
         android:id="@+id/google_btn"
-        android:layout_width="98dp"
-        android:layout_height="21dp"
+        android:layout_width="281dp"
+        android:layout_height="38dp"
         android:src="@drawable/google"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/login"
-        app:layout_constraintVertical_bias="0.5" />
+        app:layout_constraintVertical_bias="0.428" />
 
     <TextView
         android:id="@+id/imageView2"
@@ -132,5 +131,19 @@
         app:layout_constraintHorizontal_bias="0.051"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="137dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="1dp"
+        android:text="Demo"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/login"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/password" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
