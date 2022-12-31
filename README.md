@@ -13,7 +13,7 @@ https://docs.google.com/document/d/e/2PACX-1vSbsI-elObmh_GG9jfhMxxVuQSGCkY1Xpz19
 
 
 
-**Below is the preview of the extension:**<br><br>
+**Below is the preview of the app:**<br><br>
 The reason why you wont see images in the app is because I have recetly found out that the website that i was scarpping data from, suddenly switched from one image per row to multi images per row. 
 <br>Since Recyclerview in the app can only processed one image per row at now I will have to reaplce recyclerview to nested recyclerview.<br>
 <br>In other words switch from arrays to nested arrays. I will fix this small change and will update the code. 
