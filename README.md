@@ -1,6 +1,6 @@
 #  Build_Plan_Vote
 
-**_Mobile App that gets the data of all the emppty lands that are currently on sale in the San Jose Area_**<br><br>
+**_Mobile App that gets the data of all the empty lands that are currently on sale in the San Jose Area_**<br><br>
 Homelessness is a very big problem in every city. The market to solve the homelessness crisis is big but we have very less solutions in our hands to get rid of this problem. Empty lands on which government wants to build the affordable houses on. The voting right that is included in the app will give the local residents a power to vote on the proposals to develop these empty lands that are near their area into an affordable Apartment Complexes. By using the Build Plan app, we can work on a proposal together with the residents to come up with some sort of middle ground or some compensation, if needed. 
 
 
