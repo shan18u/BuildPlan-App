@@ -16,8 +16,7 @@ https://docs.google.com/document/d/e/2PACX-1vSbsI-elObmh_GG9jfhMxxVuQSGCkY1Xpz19
 **_Below is the preview of the app:_**<br><br>
 The recent change in the source website, from one image per row to multiple images per row, has caused the images to not display in the app. To resolve this issue, I plan to replace the current RecyclerView with a nested RecyclerView, effectively switching from single arrays to nested arrays. This update will enable the app to process multiple images per row. I am confident in my ability to make this change and look forward to implementing it soon.
  
-<br>In other words switch from arrays to nested arrays. I will fix this small change and will update the code. 
-
+<br>
 
 
 
