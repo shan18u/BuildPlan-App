@@ -1,7 +1,7 @@
 #  Build_Plan_Vote
 
 **_Mobile App that scrapes gets the data of all the empty lands that are currently on sale in the San Jose Area._**<br><br>
-Homelessness is a very big problem in every city. The market to solve the homelessness crisis is big but we have very less solutions in our hands to get rid of this problem. There are empty lands available on sales on which government would love to build affordable houses on. The voting right that is included in the app, will give the local residents power, to vote on the proposals of developing these empty lands that are near their area, into an affordable Apartment Complexes. By using the Build Plan app, we can work on a proposal together with the residents to come up with some sort of middle ground or some compensation, if needed. 
+Homelessness is a widespread and pressing issue in cities across the world. While the market for solutions to the homelessness crisis is vast, there are limited effective solutions available. Build Plan, a new app, aims to tackle this problem by utilizing empty lands for sale and empowering local residents to make decisions on the development of these lands into affordable housing through voting rights within the app. Through Build Plan, we aim to collaboratively work with residents to reach mutually beneficial solutions, including compensation where necessary, for the development of affordable apartment complexes.
 
 
 <br>**_Prototype link:_**<br>
@@ -14,8 +14,8 @@ https://docs.google.com/document/d/e/2PACX-1vSbsI-elObmh_GG9jfhMxxVuQSGCkY1Xpz19
 
 
 **_Below is the preview of the app:_**<br><br>
-The reason why you wont see images in the app is because I have recetly found out that the website that i was scarpping data from, suddenly switched from one image per row to multi images per row. 
-<br>Since Recyclerview in the app can only processed one image per row at now I will have to reaplce recyclerview to nested recyclerview.<br>
+The recent change in the source website, from one image per row to multiple images per row, has caused the images to not display in the app. To resolve this issue, I plan to replace the current RecyclerView with a nested RecyclerView, effectively switching from single arrays to nested arrays. This update will enable the app to process multiple images per row. I am confident in my ability to make this change and look forward to implementing it soon.
+ 
 <br>In other words switch from arrays to nested arrays. I will fix this small change and will update the code. 
 
 
