@@ -7,8 +7,6 @@ Build Plan, a new app, aims to tackle this problem by utilizing empty lands for 
 
 <br>**_Prototype link:_**<br>
 https://xd.adobe.com/view/6556920f-6799-4e19-b99c-ba1503377bcc-3005/<br>
-<br>**_Prood Of Concept_**<br>
-https://docs.google.com/document/d/e/2PACX-1vSbsI-elObmh_GG9jfhMxxVuQSGCkY1Xpz19OEsi9vEGw338dh5Kw4Jv1UFrd7qGJwaJSHaPivhdK7C/pub<br>
 <br>**_Small Live_Preview_**<br>
 ![ScreenPreview](https://user-images.githubusercontent.com/20603692/210126992-38761aec-cf83-426c-984a-04aeca471443.gif)<br>
 
