@@ -1,7 +1,8 @@
 #  Build_Plan_Vote
 
-**This Mobile Application offers a comprehensive solution to source data on unoccupied lands that are currently available for sale within the San Jose region, aimed at mitigating the pressing issue of homelessness.**<br><br>
-Homelessness is a widespread and pressing issue in cities across the world. While the market for solutions to the homelessness crisis is vast, there are limited effective solutions available. Build Plan, a new app, aims to tackle this problem by utilizing empty lands for sale and empowering local residents to make decisions on the development of these lands into affordable housing through voting rights within the app. Through Build Plan, we aim to collaboratively work with residents to reach mutually beneficial solutions, including compensation where necessary, for the development of affordable apartment complexes.
+**This Mobile Application offers a comprehensive solution to source data on unoccupied lands that are currently available for sale within the region.**<br><br>
+
+Build Plan, a new app, aims to tackle this problem by utilizing empty lands for sale and empowering local residents to make decisions on the development of these lands into affordable housing through voting rights within the app. Through Build Plan, we aim to collaboratively work with residents to reach mutually beneficial solutions, including compensation where necessary, for the development of affordable apartment complexes.
 
 
 <br>**_Prototype link:_**<br>
